@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🎨 [my shaders](https://www.shadertoy.com/user/ShaderSage)
+🎨 [Shaders](https://www.shadertoy.com/user/ShaderSage)
+
 🌐 [Website](kianmehrabani.github.io)
 
 <!--
